@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "matricula": "1231720",
+      "nome": "Thiago Nascimento",
+      "setor": "Chao de Fabrica",
+      "dataNasc": "28/08/1998",
+      "funcao": "Chefe chao de fabrica",
+      "area": "Chão de Fábrica",
+      "sessao": "304",
+      "email": "thiago@email.com",
+      "password": "$2a$10$5DTwmNzscGj1QHFbUOkhLewXjHodiZpuy7VauD28pwfLtibFH2tkq",
+      "id": 1
+    },
+    {
+      "matricula": "1231720",
+      "nome": "Pedro Sampaio",
+      "setor": "Chao de Fabrica",
+      "dataNasc": "28/08/1998",
+      "funcao": "Chefe chão de fábrica",
+      "sessao": "304",
+      "area": "Chão de Fábrica",
+      "email": "thiago@email.com",
+      "password": "$2a$10$5DTwmNzscGj1QHFbUOkhLewXjHodiZpuy7VauD28pwfLtibFH2tkq",
+      "id": 2
+    }
+    
+  ]
+}
